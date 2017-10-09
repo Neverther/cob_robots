@@ -47,8 +47,8 @@ arm_left_joint4_button: 3
 
 right_indicator_button: 7
 left_indicator_button: 6
-up_down_button: 0
-right_left_button: 1
+up_down_button: 1
+right_left_button: 0
 
 #mode4: Twist controller
 arm_right_twist_button: 2
